@@ -1,0 +1,11 @@
+{
+  "name": "mkdeb",
+  "version": "0.0.1",
+  "author":{ "name" : "Sebastien Dumetz"
+           , "email" : "s.dumetz@holusion.com"
+           , "url" : "http://www.holusion.com"
+         },
+  "main": "index.js",
+  "bin":"index.js",
+  "repository":"git@github.com:klepthys/node-mkdeb.git"
+}
